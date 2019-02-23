@@ -11,7 +11,7 @@
 ### [The real reason America is scared of Huawei | MIT 技术评论](https://www.technologyreview.com/s/612874/the-real-reason-america-is-scared-of-huawei-internet-connected-everything/)
 
 
-[[无法访问上面链接点击此处]](https://github.com/yiannischang/wx-mp/raw/master/src/mp/20190216/images/technologyreview.com!s!612874!the-real-reason-america-is-scared-of-huawei-internet-connected-everyth-414x736.png)
+[[无法访问上面链接点击此处]](https://github.com/yiannischang/mp/raw/master/20190216/images/technologyreview.com!s!612874!the-real-reason-america-is-scared-of-huawei-internet-connected-everyth-414x736.png)
 
 
 美国害怕华为的真正原因。5G 不仅仅是一种技术，而是能带给所有者更多信息权力，带给使用更多信息木马的技术。此外，美国也害怕新技术对市场的垄断。本质上是对新技术带来的“全面的”复杂性的一种抗拒。更深的本质是，信息技术是否将会越来越复杂，最终没人或者组织能够彻底掌控？信息技术本身需要处理的是人类社会中需求的复杂性，而技术发展自身的复杂性占比越来越大，这便导致了终极一问：技术是否有其永远无法突破的天花板。谁也不知道，所知道的是 5G 将会给这个世界带来更深层次的变化。
@@ -19,7 +19,7 @@
 ### [Russia to disconnect from the internet as part of a planned test | ZDNet](https://www.zdnet.com/article/russia-to-disconnect-from-the-internet-as-part-of-a-planned-test/)
 
 
-[[无法访问上面链接点击此处]](https://github.com/yiannischang/wx-mp/raw/master/src/mp/20190216/images/zdnet.com!article!russia-to-disconnect-from-the-internet-as-part-of-a-planned-test-414x736.png)
+[[无法访问上面链接点击此处]](https://github.com/yiannischang/mp/raw/master/20190216/images/zdnet.com!article!russia-to-disconnect-from-the-internet-as-part-of-a-planned-test-414x736.png)
 
 
 俄罗斯欲测试切断国内网络与互联网的连接。对这些国家，free internet 将越来越是稀缺的资源。俄罗斯的这个决定也是预防自己的国际联网被突然切断。这些都是去全球化的明显的信号。
@@ -27,7 +27,7 @@
 ### [There May Soon Be Three Internets. America’s Won’t Necessarily Be the Best | 纽约时报](https://www.nytimes.com/2018/10/15/opinion/internet-google-china-balkanization.html)
 
 
-[[无法访问上面链接点击此处]](https://github.com/yiannischang/wx-mp/raw/master/src/mp/20190216/images/nytimes.com!2018!10!15!opinion!internet-google-china-balkanization.html-414x736.png)
+[[无法访问上面链接点击此处]](https://github.com/yiannischang/mp/raw/master/20190216/images/nytimes.com!2018!10!15!opinion!internet-google-china-balkanization.html-414x736.png)
 
 
 搞不好很快将会有三个互联网：中美欧。欧盟对数据监管异常严格，中国对信息审查极端严格，而美国是基于法律的信息自由和监控之间的平衡。合久必分，分久必合？谁也不知道，但可以通过各种信息预判。
@@ -35,17 +35,17 @@
 ### [Distributed Technologies Research](https://dtr.org/)
 
 
-[[无法访问上面链接点击此处]](https://github.com/yiannischang/wx-mp/raw/master/src/mp/20190216/images/dtr.org-414x736.png)
+[[无法访问上面链接点击此处]](https://github.com/yiannischang/mp/raw/master/20190216/images/dtr.org-414x736.png)
 
 
 分布式的技术应该是未来的趋势。分布式是可信，也是可信社会的必然。集中式仍然会存在，但两者会并存，而不是取代。分布式无疑极大地增加了系统的复杂性，带来的好处能否胜过自身复杂性带来的坏处？
 
-## 政经 Politics & Economics
+## 政治 Politics
 
 ### [What structural reform is and why it is important | 经济学人](https://www.economist.com/the-economist-explains/2014/12/09/what-structural-reform-is-and-why-it-is-important)
 
 
-[[无法访问上面链接点击此处]](https://github.com/yiannischang/wx-mp/raw/master/src/mp/20190216/images/economist.com!the-economist-explains!2014!12!09!what-structural-reform-is-and-why-it-is-important-414x736.png)
+[[无法访问上面链接点击此处]](https://github.com/yiannischang/mp/raw/master/20190216/images/economist.com!the-economist-explains!2014!12!09!what-structural-reform-is-and-why-it-is-important-414x736.png)
 
 
 最简单的解释就是， 结构性改革意味着政府工作方式的改变。对中国而言，美国关心的问题涉及到中国政府和中国企业的利益结构，并认为结构性的改变才能真正促进社会的进步和发展。
@@ -53,7 +53,7 @@
 ### [Why Are China’s Rich So Eager to Exit?](https://inequality.org/research/rich-live-china/)
 
 
-[[无法访问上面链接点击此处]](https://github.com/yiannischang/wx-mp/raw/master/src/mp/20190216/images/inequality.org!research!rich-live-china-414x736.png)
+[[无法访问上面链接点击此处]](https://github.com/yiannischang/mp/raw/master/20190216/images/inequality.org!research!rich-live-china-414x736.png)
 
 
 为什么中国有钱人如此急迫地跑路？为了更好的教育、空气和食物。这个原因令人悲伤。更悲伤的是有钱人希望在中国制造“垃圾”赚钱，而自己生活在别国，在别国消费这笔钱。由此来看，社会阶层只有两层：能走的和不能走的。
@@ -63,7 +63,7 @@
 ### [It's Time for Action on Privacy, Says Apple's CEO Tim Cook | 时代周刊](http://time.com/collection/davos-2019/5502591/tim-cook-data-privacy/)
 
 
-[[无法访问上面链接点击此处]](https://github.com/yiannischang/wx-mp/raw/master/src/mp/20190216/images/time.com!collection!davos-2019!5502591!tim-cook-data-privacy-414x736.png)
+[[无法访问上面链接点击此处]](https://github.com/yiannischang/mp/raw/master/20190216/images/time.com!collection!davos-2019!5502591!tim-cook-data-privacy-414x736.png)
 
 
 Apple CEO 提数据隐私的重要性，而此时 Apple 在全球市场都是下滑。Apple 真是牛逼。
@@ -73,7 +73,7 @@ Apple CEO 提数据隐私的重要性，而此时 Apple 在全球市场都是下
 ### [Microsoft: 70 percent of all security bugs are memory safety issues | ZDNet](https://www.zdnet.com/article/microsoft-70-percent-of-all-security-bugs-are-memory-safety-issues/)
 
 
-[[无法访问上面链接点击此处]](https://github.com/yiannischang/wx-mp/raw/master/src/mp/20190216/images/zdnet.com!article!microsoft-70-percent-of-all-security-bugs-are-memory-safety-issues-414x736.png)
+[[无法访问上面链接点击此处]](https://github.com/yiannischang/mp/raw/master/20190216/images/zdnet.com!article!microsoft-70-percent-of-all-security-bugs-are-memory-safety-issues-414x736.png)
 
 
 Windows 上的内存导致的安全问题。对 C/C++ 的程序，这个问题几乎是无解的。
@@ -81,7 +81,7 @@ Windows 上的内存导致的安全问题。对 C/C++ 的程序，这个问题�
 ### [25 years of coding, and I'm just beginning](https://dev.to/dechamp/25-years-of-coding-and-im-just-beginning-442n)
 
 
-[[无法访问上面链接点击此处]](https://github.com/yiannischang/wx-mp/raw/master/src/mp/20190216/images/dev.to!dechamp!25-years-of-coding-and-im-just-beginning-442n-414x736.png)
+[[无法访问上面链接点击此处]](https://github.com/yiannischang/mp/raw/master/20190216/images/dev.to!dechamp!25-years-of-coding-and-im-just-beginning-442n-414x736.png)
 
 
 对程序员而言，side-project 最大的问题就是特别容易半途而废，不用说，我自己有很多这种烂尾在硬盘中的项目。作者认为导致烂尾的最大原因是过于追求完美，完美导致推迟，推迟导致遗忘。这是作者新年给自己的 commitment, 这种 commitment 是接受自己的不完美，接受别人的 judgement。敢于将“烂货”扔出去给人是一种什么样的勇气，或者行为？这是对目标的精简和重新定义，接受后续的不断修正，和更持久的投入。这比第一次完美更加困难。这种品质比起聪明，或者勤奋更加难得，因为它要求在坦然接受自己不完美的情况下，持续地自我改进，改变。
@@ -91,7 +91,7 @@ Windows 上的内存导致的安全问题。对 C/C++ 的程序，这个问题�
 ### [How To Be Successful](http://blog.samaltman.com/how-to-be-successful)
 
 
-[[无法访问上面链接点击此处]](https://github.com/yiannischang/wx-mp/raw/master/src/mp/20190216/images/blog.samaltman.com!how-to-be-successful-414x736.png)
+[[无法访问上面链接点击此处]](https://github.com/yiannischang/mp/raw/master/20190216/images/blog.samaltman.com!how-to-be-successful-414x736.png)
 
 
 别看标题很“俗”，这13条经验不可谓不宝贵。与其说是具体的经验，不如说是"指导性"原则：复利性原则当然厉害，问题是如何将这条原则加以实际运用；深刻的自信是一种什么样的品质和力量？独立思考应该是当前时代最稀奇的能力；销售可以说是排名第一的技能；富贵险中求，亘古不变的真理；评估事情的重要程度，聚焦并迅速执行是取得成功的关键；努力并不是蛮干或者加班；胆识，有胆无识是自欺，有识无胆是自弃；执着和固执是有区别的，前者关注目标的达成，后者只是对行为或想法的坚持。人际网络是大学问；通往真正的财富之路绝不是上班领薪；内在的驱动力是人的内核，是一切之源泉和燃料。这些原则是智慧和品质的完美结合，且两者缺一不可。这些看似人人都懂的“心气之力”，万人之中难有一人具备。要想获得它们需不懈的刻意努力。
@@ -99,7 +99,7 @@ Windows 上的内存导致的安全问题。对 C/C++ 的程序，这个问题�
 ### [Ask HN: How do I earn more as a developer? | Hacker News](https://news.ycombinator.com/item?id=19161489)
 
 
-[[无法访问上面链接点击此处]](https://github.com/yiannischang/wx-mp/raw/master/src/mp/20190216/images/news.ycombinator.com!item!id=19161489-414x736.png)
+[[无法访问上面链接点击此处]](https://github.com/yiannischang/mp/raw/master/20190216/images/news.ycombinator.com!item!id=19161489-414x736.png)
 
 
 赚钱并非具备天赋之人才能做到，本质上也是一种技能。对开发者（和其他很多职业）而言，他们最大的问题是没有商业意识，就是不懂商业规律和知识，更不懂如何将技术转变成为口袋的金钱。这是一个明显却又备受忽视的问题，也是一个不得不去面对和解决的问题，因为毕竟，迟早要明白你所处的世界的真实面貌。

@@ -8,10 +8,10 @@
 
 ## 商业 Business
 
-### [任正非致全体员工信：网络安全和隐私保护是最高纲领 | ](https://m.ithome.com/html/403650.htm)
+### [任正非致全体员工信：网络安全和隐私保护是最高纲领](https://m.ithome.com/html/403650.htm)
 
 
-[[无法访问上面链接点击此处]](https://github.com/yiannischang/wx-mp/raw/master/src/mp/20190120/images/m.ithome.com!html!403650.htm-414x736.png)
+[[无法访问上面链接点击此处]](https://github.com/yiannischang/mp/raw/master/20190120/images/m.ithome.com!html!403650.htm-414x736.png)
 
 
 
@@ -21,10 +21,10 @@
 
 ## 技术 Technology
 
-### [JUnit 5 Architecture or "What's Jupiter?" | ](https://blog.codefx.org/design/architecture/junit-5-architecture-jupiter/)
+### [JUnit 5 Architecture or "What's Jupiter?"](https://blog.codefx.org/design/architecture/junit-5-architecture-jupiter/)
 
 
-[[无法访问上面链接点击此处]](https://github.com/yiannischang/wx-mp/raw/master/src/mp/20190120/images/blog.codefx.org!design!architecture!junit-5-architecture-jupiter-414x736.png)
+[[无法访问上面链接点击此处]](https://github.com/yiannischang/mp/raw/master/20190120/images/blog.codefx.org!design!architecture!junit-5-architecture-jupiter-414x736.png)
 
 
 
@@ -35,7 +35,7 @@
 ### [Computational and Inferential Thinking | UC Berkeley](https://www.inferentialthinking.com/chapters/intro.html)
 
 
-[[无法访问上面链接点击此处]](https://github.com/yiannischang/wx-mp/raw/master/src/mp/20190120/images/inferentialthinking.com!chapters!intro.html-414x736.png)
+[[无法访问上面链接点击此处]](https://github.com/yiannischang/mp/raw/master/20190120/images/inferentialthinking.com!chapters!intro.html-414x736.png)
 
 
 
@@ -43,10 +43,10 @@
 
 UCB 介绍数据科学的导论课程，无需先备知识。这个课程的名称取得很有意思，computational 思考是计算机领域的一种思维方式，而又增加了 inferetial 思考，这是来自统计学的思维方式，而当前大数据技术正是基于数据统计。推断是否和计算是等同重要的思维方式，目前还不得而知，但这门课显然认为，在今后的教育中，推断将是一种基础的必备技能。
 
-### [Managing remote teams - a crash course | ](http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course)
+### [Managing remote teams - a crash course](http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course)
 
 
-[[无法访问上面链接点击此处]](https://github.com/yiannischang/wx-mp/raw/master/src/mp/20190120/images/klinger.io!post!180989912140!managing-remote-teams-a-crash-course-414x736.png)
+[[无法访问上面链接点击此处]](https://github.com/yiannischang/mp/raw/master/20190120/images/klinger.io!post!180989912140!managing-remote-teams-a-crash-course-414x736.png)
 
 
 
@@ -54,10 +54,10 @@ UCB 介绍数据科学的导论课程，无需先备知识。这个课程的名�
 
 介绍如何管理远程团队。我目前的工作团队就是中美混合的远程团队。其中很多值得学习。往更远处看，远程团队是一种工作方式，对某种类型的项目或者产品或许更为合适。远程交流与本地的面对面交流更具挑战。
 
-### [How to write a good software design doc | ](https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c)
+### [How to write a good software design doc](https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c)
 
 
-[[无法访问上面链接点击此处]](https://github.com/yiannischang/wx-mp/raw/master/src/mp/20190120/images/medium.freecodecamp.org!how-to-write-a-good-software-design-document-66fcf019569c-414x736.png)
+[[无法访问上面链接点击此处]](https://github.com/yiannischang/mp/raw/master/20190120/images/medium.freecodecamp.org!how-to-write-a-good-software-design-document-66fcf019569c-414x736.png)
 
 
 
@@ -65,10 +65,10 @@ UCB 介绍数据科学的导论课程，无需先备知识。这个课程的名�
 
 大多数开发人是讨厌写文档和看文档的。对那些真的很厉害的程序员，他们的理由是“代码即文档”，并真的以此作为编码要求，尝试写出一看即懂的代码，当然潜台词是，如果你看懂，说明你不行。这对水平相当，只用代码交流的程序员，问题不大，但文档的意义并不在此。文档是为了交流。另外一点，通过拟写文档，能够整理自己的思路，有助于自己清晰思考和表达，当然，代价就是耐心和时间。
 
-### [What is software design? | ](http://www.bleading-edge.com/Publications/C++Journal/Cpjour2.htm)
+### [What is software design?](http://www.bleading-edge.com/Publications/C++Journal/Cpjour2.htm)
 
 
-[[无法访问上面链接点击此处]](https://github.com/yiannischang/wx-mp/raw/master/src/mp/20190120/images/bleading-edge.com!Publications!C++Journal!Cpjour2.htm-414x736.png)
+[[无法访问上面链接点击此处]](https://github.com/yiannischang/mp/raw/master/20190120/images/bleading-edge.com!Publications!C++Journal!Cpjour2.htm-414x736.png)
 
 
 
